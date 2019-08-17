@@ -7,6 +7,6 @@ Also live feed of time taken and penalty on the biker.
 
 
 Developed By -
-Harsh Namdev
+Harsh Namdev & 
 Anurag Phadnis
 
